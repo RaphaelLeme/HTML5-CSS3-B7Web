@@ -1,0 +1,12 @@
+#titulo, 
+.texto {
+    color: blue;
+    font-size: 25px;
+}/* ELEMENTO, OUTRO ELEMENTO */
+
+.texto {
+    font-weight: bold;
+}
+#titulo {
+    font-weight: normal;
+}/* ELEMENTO OUTROELEMENTO */
