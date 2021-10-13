@@ -1,0 +1,14 @@
+#titulo {
+     background-color: #f00
+}
+p {
+    background-color: blue;
+    border-radius: 5px;
+    
+}
+div{
+    background-color: #00ff00;
+    width: 200px;
+    height:200px;
+    border-radius: 100px;
+}
