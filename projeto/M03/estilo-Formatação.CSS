@@ -14,9 +14,6 @@ table {
 table thead {
     background-color: #ccc;
 }
-th {
-
-}
 th, td {
     padding: 10px;
     text-align: left;
